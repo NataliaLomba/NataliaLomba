@@ -1,7 +1,6 @@
 ### Ola! Sou Natalia Lomba  👋
 
-- 🔭 Hoje estou trabalhando com  Governança de TI.
-- 🌱 Estudando Programação. 
+- 🔭 Desenvolvedora em Formação.
 - 😄 Pronouns:  ela/dela.
 
   <div>
